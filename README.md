@@ -1,3 +1,1 @@
-# React
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-FEW OF MY REACT PROJECT USING VITE AND TYPESCRIPT
+Once you open project in VSC just go to terminal and install npm with "@ npm install" and you will need Sass also "@ npm add -D sass" after that you will be okay, if you have any troubles here is the vite documentation site https://vitejs.dev/guide/
